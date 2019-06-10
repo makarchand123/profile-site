@@ -1,0 +1,80 @@
+body {
+  background-color: #EAF6F6;
+  text-align: center;
+  font-family: 'merriweather',serif;
+  padding: 60px;
+}
+.boy {
+  text-align: left;
+  border-radius: 100%;
+  position: absolute;
+  left:80px;
+  top:80px;
+}
+h1 {
+  color:#66BFBF;
+  margin: 0 auto 0 auto;
+  width:10%;
+  font-family: 'sacramento',cursive;
+  font-size: 65px;
+}
+h3,h2 {
+  color:#11999E;
+}
+.programmer{
+  color:#11999E;
+  font-weight: lighter;
+}
+.skill-photo1{
+  position: absolute;
+  border-radius: 100%;
+  width:25%;
+  left:0;
+}
+.skill-photo2{
+  position: absolute;
+  width:25%;
+  right:0;
+}
+.middle-containeer {
+position: relative;
+}
+.profile {
+  margin-top: 50px;
+}
+.top-cloud {
+  position:absolute;
+  right:450px;
+  top:50px;
+
+}
+.div1{
+  width: 60%;
+  height: 250px;
+  margin: 0 auto 0 auto;
+  position: relative;
+}
+
+.div2{
+  width: 60%;
+  height: 250px;
+  margin: 0 auto 0 auto;
+  position: relative;
+}
+.skills {
+  height: 700px;
+}
+.bottom-cloud {
+  position: absolute;
+  right:300px;
+  left:450px;
+}
+
+.paragraph1 {
+  position: absolute;
+  left:250px;
+}
+.paragraph2 {
+  position: absolute;
+  right: 250px;
+}
